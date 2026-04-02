@@ -22,6 +22,7 @@ delays and constraints onto digital designs.
 | Date | Title |
 |------|-------|
 | 2025-04 | [Building a Python SDF Parser for EDA Flow Automation](https://rohanchadhury.medium.com/building-a-python-sdf-parser-for-eda-flow-automation-cc7f028faf35) |
+| 2025-04 | [Building a Python Verilog Cell Library Parser for EDA Automation](https://rohanchadhury.medium.com/building-a-python-verilog-cell-library-parser-for-eda-automation-9a6af3e8f17c) |
 
 ---
 
