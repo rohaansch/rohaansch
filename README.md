@@ -1,16 +1,31 @@
-## Hi there 👋
+# Rohan Chadhury
 
-<!--
-**rohaansch/rohaansch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CAD Software Engineer · EDA automation, CAD flow development,
+and open-source tooling for chip design workflows.
 
-Here are some ideas to get you started:
+Previously 10 years of experience as Library Characterization and
+Digital HDL Modeling Team Lead.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Open-source projects
+
+**[sdf-parser](https://github.com/rohaansch/sdf-parser)**
+A pure-Python parser for Standard Delay Format (SDF) files — the
+industry-standard format used by EDA tools to back-annotate timing
+delays and constraints onto digital designs.
+
+---
+
+## Writing
+
+| Date | Title |
+|------|-------|
+| 2025-04 | [Building a Python SDF Parser for EDA Flow Automation](https://rohanchadhury.medium.com/building-a-python-sdf-parser-for-eda-flow-automation-cc7f028faf35) |
+
+---
+
+## Tools & technologies
+
+`Python` `PrimeTime` `StarRC` `SiliconSmart` `Liberate` `HSpice`
+`Spectre` `Liberty` `SDF` `Verilog` `IBIS` `git`
